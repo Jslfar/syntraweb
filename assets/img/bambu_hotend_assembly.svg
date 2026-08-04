@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
+  <rect width="400" height="400" fill="#181818" rx="16"/>
+  <!-- Radiator / Heatsink -->
+  <rect x="150" y="70" width="100" height="120" fill="#222" stroke="#00E5FF" stroke-width="4" rx="6"/>
+  <line x1="150" y1="90" x2="250" y2="90" stroke="#00E5FF" stroke-width="4"/>
+  <line x1="150" y1="110" x2="250" y2="110" stroke="#00E5FF" stroke-width="4"/>
+  <line x1="150" y1="130" x2="250" y2="130" stroke="#00E5FF" stroke-width="4"/>
+  <line x1="150" y1="150" x2="250" y2="150" stroke="#00E5FF" stroke-width="4"/>
+  <!-- Heatblock -->
+  <rect x="160" y="190" width="80" height="70" fill="#C0C0C0" rx="4"/>
+  <!-- Silicone Sock -->
+  <rect x="155" y="210" width="90" height="55" fill="#111" rx="4"/>
+  <!-- Nozzle Tip -->
+  <polygon points="190,265 210,265 200,295" fill="#FFD700"/>
+  <text x="200" y="360" font-family="sans-serif" font-size="18" font-weight="bold" fill="#00E5FF" text-anchor="middle">HOTEND BAMBU LAB A1 / A1 MINI</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <rect width="200" height="200" fill="#121212"/>
+  <!-- Smooth Interlocking S Logo -->
+  <g transform="translate(10, 10)">
+    <!-- Main Outer S Stroke -->
+    <path d="M 125,50 C 125,32 105,22 80,22 C 55,22 40,36 40,55 C 40,82 120,80 120,118 C 120,138 102,150 78,150 C 50,150 35,132 35,115" 
+          fill="none" stroke="#00E5FF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" />
+    <!-- Inner Parallel Curve -->
+    <path d="M 100,50 C 100,42 92,38 78,38 C 64,38 56,45 56,55 C 56,68 100,68 100,98 C 100,108 92,118 78,118 C 62,118 52,108 52,98" 
+          fill="none" stroke="#00E5FF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" opacity="0.9" />
+  </g>
+</svg>
