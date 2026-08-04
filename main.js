@@ -41,7 +41,6 @@
       window.cart.push({ id: id, name: name, sku: sku, qty: 1 });
     }
     window.updateCartUI();
-    window.openCartDrawer();
   };
 
   window.changeCartQty = function(index, delta) {
